@@ -51,4 +51,4 @@ Feel free to contribute with improvements, bug fixes, or suggestions. I hope thi
 
 Licensed under the MIT License, Copyright © 2023
 
-See [LICENSE](https://github.com/matheusleite01/animais-fantasticos/blob/master/LICENSE) for more information.
+See [LICENSE](https://github.com/matheusleite01/Weather-app-React/blob/master/LICENSE) for more information.
