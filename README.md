@@ -13,6 +13,10 @@ The project incorporates a responsive design, ensuring a seamless user experienc
 - React: JavaScript library for building user interfaces.
 - [OpenWeatherMap API](https://openweathermap.org/api/one-call-3): Data source for weather forecast information.
 - Figma: Design tool used to create the application layout.
+
+
+# Design
+- [Weather-app](https://www.figma.com/file/KbIVI2gt1RGPIN4TXSGphf/Weather-App?type=design&node-id=0%3A1&t=JUDTzRc7nAbgyzBY-1)
  
 
 
@@ -28,10 +32,12 @@ git clone https://github.com/matheusleite01/Weather-app-React.git
 ``` 
 npm install
 ``` 
-3. Run the project running the command:
+3. Run the project with this command:
 ``` 
 npm run dev
 ``` 
+You can also see this project executed with this link:
+ [Weather app - React](https://matheusleite01.github.io/Weather-app-React/)
 
 
 
