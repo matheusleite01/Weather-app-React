@@ -34,8 +34,6 @@ npm run dev
 ``` 
 
 
-You can also see this project executed with this link:
- [Weather app - React](https://matheusleite01.github.io/animais-fantasticos/)
 
 # Next Steps
 
