@@ -22,7 +22,7 @@ Run the following command on your local environment:
 1. Clone this repository.
 
 ```
-git clone https://github.com/matheusleite01/animais-fantasticos.git
+git clone https://github.com/matheusleite01/Weather-app-React.git
 ```
 2. Install project dependencies by running the command:
 ``` 
