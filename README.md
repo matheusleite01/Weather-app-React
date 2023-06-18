@@ -2,6 +2,8 @@
 
 ![App Screenshot](/src/assets/img-readme.png)
 
+#### Access here -> [Weather app - React](https://matheusleite01.github.io/Weather-app-React/)
+
 # Overview
 
 The Weather App is a web application built with React that allows users to retrieve weather information for different cities around the world. The app fetches data from the [OpenWeatherMap](https://openweathermap.org) API, providing real-time weather updates including temperature, humidity, wind speed, and feels like.
@@ -36,10 +38,6 @@ npm install
 ``` 
 npm run dev
 ``` 
-You can also see this project executed with this link:
- [Weather app - React](https://matheusleite01.github.io/Weather-app-React/)
-
-
 
 # Next Steps
 
